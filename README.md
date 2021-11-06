@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="2BMJ3NY8ro8-ov_NLJ3JR2gS1mS7hdPGmGF5zCWq9kQ" />
 <h1 align="center">Hi 👋, I'm Ahzam Shahnil</h1>
-![IMG_5967](https://user-images.githubusercontent.com/62467164/140609028-48eeb312-942a-455b-b988-e98fb1d25db1.JPG)
+<img src="https://user-images.githubusercontent.com/62467164/140609028-48eeb312-942a-455b-b988-e98fb1d25db1.JPG" alt="Avatar" style="border-radius: 50%">
 
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
