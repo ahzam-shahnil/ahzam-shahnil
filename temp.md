@@ -1,55 +1,37 @@
-<!--
-**evilgenius786/evilgenius786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<meta name="google-site-verification" content="2BMJ3NY8ro8-ov_NLJ3JR2gS1mS7hdPGmGF5zCWq9kQ" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p>I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
+### Hey there, I'm  Ahzam Shahnil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p>I've worked on 15+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
 
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.facebook.com/evilgenius786/">
+<a href="https://www.facebook.com/ahzam.shahnil/">
     <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
 </a>
 
-<a href="https://www.linkedin.com/in/evil-genius/">
+<a href="https://www.linkedin.com/in/ahzamshahnil/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<a href="https://t.me/evilgenius786">
+<a href="https://t.me/ahzam_shahnil">
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
    
-
-<a href="mailto:786hassan777@gmail.com">
+<a href="mailto:ahzam.shahnil@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
-<a href="https://www.instagram.com/evilgenius786/">
+    
+<a href="https://www.instagram.com/ahzam.shahnil/">
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
-
     
-<a href="https://api.whatsapp.com/send?phone=923065855647">
+<a href="https://api.whatsapp.com/send?phone=9233350877890">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<!-- <a href="https://www.fiverr.com/muhammadhassan7">
-    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
-</a> -->
-
-
-<a href="https://www.upwork.com/freelancers/~014001996e6b483c27">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
+<a href="https://www.upwork.com/freelancers/~01a17fc495d4ee4c20">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/ahzam-shahnil/ahzam-shahnil/main/upwork.ico" />
 </a>
 </div>
 
@@ -60,19 +42,30 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
+- 🙋‍♂️ Top Freelancer at Upwork
+- ⚡ Data Scraping
+- 💻 Flutter Android/Windows/Web dev
+- 📑 CS Graduate from Comsats University, Islamabad.
 
-- 🙋‍♂️ Top-Rated Freelancer at Upwork
-- ⚡ Data Scraping/Web automation
-- 💻 Android/Windows/Web dev
-- 📑 CS Graduate from Air University, Islamabad.
+- 🔭 I’m currently working on [PayQr: A Scan & Pay Solution](https://github.com/ahzam-shahnil/PayQr_App)
+
+- 🌱 I’m currently learning **Flutter, Data Science, Design Patterns, UI/UX**
+
+- 👯 I’m looking to collaborate on [Blockchain App](https://github.com/ahzam-shahnil/PayQr_App)
+
+- 💬 Ask me about **flutter, Design Pattern, Data Structures, OOP, UI/UX**
+
+- 📫 How to reach me **shahnil.ahzam@gmail.com**
+
+- ⚡ Fun fact **I love to code and play badminton.**
+
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests)<br>
-👉 Web Automation (Python/C#/Selenium)<br>
+👉 Flutter Developer (Dart)<br>
 👉 Android Automation (Python/C#/Appium)<br>
 👉 Android Apps (Java/XML)<br>
-👉 Windows desktop Apps (WPF/C#/XAML)<br>
-👉 Web Apps (MEAN Stack)<br>
+👉 Windows desktop Apps (Flutter)<br>
 👉 API Development (FastAPI/Flask)<br>
 <br>
 👉 Multithreaded code<br>
@@ -80,32 +73,26 @@ Here are some ideas to get you started:
 👉 Clean and efficient<br>
 👉 Commented and prettified to help you understand<br>
 👉 Parsing data and APIs<br>
-👉 C++<br>
-👉 Cyber security<br>
-👉 Web pentesting/hacking<br>
+👉 Dart<br>
 👉 Reverse Engineering<br>
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />    
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+   
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 </div>
 <br>
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham&show_icons=true&include_all_commits=true&)
+![Ahzam's github stats](https://github-readme-stats.vercel.app/api?username=ahzam-shahnil&theme=gotham&show_icons=true&include_all_commits=true&)
 <br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzam-shahnil&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahzam-shahnil&label=Profile%20views&color=0e75b6&style=flat" alt="ahzam-shahnil" /> </p><br>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
+<br> -->
