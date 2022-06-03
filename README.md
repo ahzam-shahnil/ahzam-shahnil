@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="2BMJ3NY8ro8-ov_NLJ3JR2gS1mS7hdPGmGF5zCWq9kQ" />
 
-### Hey there, I'm  Ahzam Shahnil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Ahzam Shahnil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="32">
 <p>I've worked on 15+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
 
