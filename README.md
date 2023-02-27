@@ -26,7 +26,7 @@
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
     
-<a href="https://api.whatsapp.com/send?phone=9233350877890">
+<a href="https://api.whatsapp.com/send?phone=923350877890">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
