@@ -42,7 +42,7 @@
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
-- 🙋‍♂️ Top Freelancer at Upwork
+- 🙋‍♂️ Freelancer at Upwork
 - ⚡ Data Scraping
 - 💻 Flutter Android/Windows/Web dev
 - 📑 CS Graduate from Comsats University, Islamabad.
